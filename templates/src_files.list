@@ -1,0 +1,16 @@
+design_name_interface.sv
+sva.sv
+design_name_confg.sv
+design_name_seq_item.sv
+reset_seq.sv
+######################################################## PUT YOUR SEQUENCES HERE ########################################################
+design_name_sequencer.sv
+design_name_driver.sv
+design_name_monitor.sv
+design_name_agt.sv
+design_name_scoreboard.sv
+design_name_coverage.sv
+design_name_env.sv
+design_name_test.sv
+design_name.v
+design_name_top.sv

@@ -1,0 +1,6 @@
+1) open the exe
+2) enter the design name and browse your output file 
+3) identify if the agent is active or passive
+3) complete your own uvm ie (seqitem, scoreboard, sequences and start the sequences in the test)
+4) run the do file in questa 
+Happy verifying!!
