@@ -19,10 +19,6 @@ No need to manually modify template files — everything is automated.
 ✅ Embedded template — no need to provide it manually  
 ✅ `.exe` version available — no Python required  
 
----
-
-## 🖥️ How to Use
-
 1. Run the `uvm_generator.exe`  
 2. Enter your desired **design name** (e.g., `spi`, `i2c`, `uart`)  
 3. Select an **output folder**  
